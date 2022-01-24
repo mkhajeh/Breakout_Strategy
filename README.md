@@ -10,4 +10,4 @@ The main libraries used in this project are summarized as follow:
 - pandas
 - Matplotlib
 
-All the coding for this project are summarized in **trading_with_momentum.ipynb**
+All the coding for this project are summarized in **Breakout_Strategy.ipynb**
