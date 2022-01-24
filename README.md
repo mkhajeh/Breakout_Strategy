@@ -1,4 +1,4 @@
-# Trading with Momentum
+# Break Out Strategy
 
 In this project, I implemented the breakout strategy. I found and removed any outliers. I also tested to see if it has the potential to be profitable using a Histogram and P-Value. For the dataset, I used the end of day from Quotemedia.
 
